@@ -3,3 +3,4 @@
 ## Node Package at https://www.npmjs.com/package/node-tutorial-app
 What does the package do?
 Not much!
+Just console logs on your node, check /testing-our-package!
